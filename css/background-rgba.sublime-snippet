@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+background: rgba(0,0,0,0.5);
+]]>
+	</content>
+	<tabTrigger>sbr</tabTrigger>
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

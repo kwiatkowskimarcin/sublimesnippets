@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+background-color: #000${1};
+background-image: url('../images/${2}');
+background-repeat: none${3};
+background-position: 0 0${4};
+]]>
+	</content>
+	<tabTrigger>sbc</tabTrigger>
+	<scope>source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
