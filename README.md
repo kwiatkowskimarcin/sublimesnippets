@@ -1,15 +1,31 @@
-# Sublime Text HTML Snippets
-
-_A work in progress._
-
-Lorem ipsum
+# Sublime Snippets
 
 __HTML:__
 
-__a__
+__Lorem ipsum__
 
-```html
-<a href="$1">$2</a>
+```lorem ipsum... 1 paragraph
+Lorem ipsum dolor sit amet, consectetur adipiscing eli...
+```
+
+```lorem ipsum... 2 paragraphs
+Lorem ipsum dolor sit amet, consectetur adipiscing eli...
+```
+
+```lorem ipsum... 3 paragraphs
+Lorem ipsum dolor sit amet, consectetur adipiscing eli...
+```
+
+```lorem ipsum... 4 paragraphs
+Lorem ipsum dolor sit amet, consectetur adipiscing eli...
+```
+
+```lor5
+<p>Lorem ipsum dolor sit...</p>
+<p>Pellentesque habitant...</p>
+<p>Phasellus consectetur...</p>
+<p>Mauris bibendum ullam...</p>
+<p>Mauris mollis elit no...</p>
 ```
 
 ---
