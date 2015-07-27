@@ -1,9 +1,0 @@
-<snippet>
-	<content>
-<![CDATA[
-<img src="http://dummyimage.com/${1}x${2}/a9a9a9/fff.png&text=${3}" alt="TEST_IMAGE ${3}" width="${1}" height="${2}" />
-]]>
-	</content>
-	<tabTrigger>imgd</tabTrigger>
-	<scope>text.html</scope>	
-</snippet>

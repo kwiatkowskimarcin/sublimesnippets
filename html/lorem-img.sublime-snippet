@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+<img src="https://unsplash.it/g/${1}/${2}" alt="${3}" width="${1}" height="${2}">
+]]>
+	</content>
+	<tabTrigger>lori</tabTrigger>
+	<scope>text.html</scope>	
+</snippet>
