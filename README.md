@@ -2,31 +2,39 @@
 
 __HTML:__
 
-__Lorem ipsum__
+__lor1__
 
-```lor1
+```
 <p>Lorem ipsum dolor sit...</p>
 ```
 
-```lor2
+__lor2__
+
+```
 <p>Lorem ipsum dolor sit...</p>
 <p>Pellentesque habitant...</p>
 ```
 
-```lor3
+__lor3__
+
+```
 <p>Lorem ipsum dolor sit...</p>
 <p>Pellentesque habitant...</p>
 <p>Phasellus consectetur...</p>
 ```
 
-```lor4
+__lor4__
+
+```
 <p>Lorem ipsum dolor sit...</p>
 <p>Pellentesque habitant...</p>
 <p>Phasellus consectetur...</p>
 <p>Mauris bibendum ullam...</p>
 ```
 
-```lor5
+__lor5__
+
+```
 <p>Lorem ipsum dolor sit...</p>
 <p>Pellentesque habitant...</p>
 <p>Phasellus consectetur...</p>

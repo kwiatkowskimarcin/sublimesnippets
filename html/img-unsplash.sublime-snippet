@@ -1,7 +1,7 @@
 <snippet>
 	<content>
 <![CDATA[
-<img src="https://unsplash.it/g/${1}/${2}?random=${3}" alt="TEST_IMAGE ${4}" width="${1}" height="${2}" />
+<img src="https://unsplash.it/g/${1}/${2}?random=${3}" alt="TEST_IMAGE ${4}" width="${1}" height="${2}">
 ]]>
 	</content>
 	<tabTrigger>imgu</tabTrigger>
