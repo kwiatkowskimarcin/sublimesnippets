@@ -1,9 +1,9 @@
 <snippet>
 	<content>
 <![CDATA[
-${1}Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.${2}
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse placerat elit ut purus elementum, id efficitur ante tristique. Phasellus tincidunt nulla et est ultricies dignissim. Sed in est blandit, ultricies urna quis, tincidunt ipsum. Pellentesque tempus nunc in lectus semper, non porta eros faucibus. In nec enim mattis nisi volutpat dictum in non tortor. Cras efficitur viverra interdum. Duis gravida lobortis diam vitae condimentum. Phasellus augue elit, vehicula luctus ligula sed, venenatis rhoncus nunc. Curabitur euismod, leo vel aliquam imperdiet, odio magna pulvinar velit, id egestas arcu risus eu dolor. Morbi purus nisl, feugiat sed finibus vulputate, elementum nec massa. Nulla nec dolor urna. Nam vehicula a magna at accumsan. Phasellus quis mi augue. Proin consectetur mauris luctus mi hendrerit, nec vehicula metus egestas.</p>
 ]]>
 	</content>
-	<tabTrigger>lorem</tabTrigger>
+	<tabTrigger>lor</tabTrigger>
 	<scope>text.html</scope>	
-</snippet<name />
+</snippet>

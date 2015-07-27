@@ -4,20 +4,26 @@ __HTML:__
 
 __Lorem ipsum__
 
-```lorem ipsum... 1 paragraph
-Lorem ipsum dolor sit amet, consectetur adipiscing eli...
+```lor1
+<p>Lorem ipsum dolor sit...</p>
 ```
 
-```lorem ipsum... 2 paragraphs
-Lorem ipsum dolor sit amet, consectetur adipiscing eli...
+```lor2
+<p>Lorem ipsum dolor sit...</p>
+<p>Pellentesque habitant...</p>
 ```
 
-```lorem ipsum... 3 paragraphs
-Lorem ipsum dolor sit amet, consectetur adipiscing eli...
+```lor3
+<p>Lorem ipsum dolor sit...</p>
+<p>Pellentesque habitant...</p>
+<p>Phasellus consectetur...</p>
 ```
 
-```lorem ipsum... 4 paragraphs
-Lorem ipsum dolor sit amet, consectetur adipiscing eli...
+```lor4
+<p>Lorem ipsum dolor sit...</p>
+<p>Pellentesque habitant...</p>
+<p>Phasellus consectetur...</p>
+<p>Mauris bibendum ullam...</p>
 ```
 
 ```lor5
