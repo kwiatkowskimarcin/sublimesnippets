@@ -4,16 +4,22 @@
 <div class="container">
 	<div class="row">
 		<div class="${1}">
-			${3}
+			${2}
 		</div> <!-- .col -->
-		<div class="${2}">
-			${4}
+		<div class="${1}">
+			${2}
 		</div> <!-- .col -->
+		<div class="${1}">
+			${2}
+		</div> <!-- .col -->
+		<div class="${1}">
+			${2}
+		</div> <!-- .col -->		
 	</div> <!-- .row -->
 </div> <!-- .container -->
 ${0}
 ]]>
 	</content>
-	<tabTrigger>crc2</tabTrigger>
+	<tabTrigger>crc4</tabTrigger>
 	<scope>text.html</scope>
 </snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+<![CDATA[
+col-xs-${1} col-sm-${2} col-lg-${3}${0}
+]]>
+	</content>
+	<tabTrigger>cc</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
+
+
+<div class="">
+
+</div> <!-- .col -->

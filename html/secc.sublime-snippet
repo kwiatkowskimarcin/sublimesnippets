@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+<![CDATA[
+<section class="${1}">
+	${0}
+</section>
+]]>
+	</content>
+	<tabTrigger>secc</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
