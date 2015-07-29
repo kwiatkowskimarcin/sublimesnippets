@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+<![CDATA[
+\$('${1}').click(function() \{
+	alert('test');${2}
+\});
+]]>
+    </content>
+    <tabTrigger>jqc</tabTrigger>
+    <scope>source.js, source.js.embedded.html</scope>
+    <description>jQuery click function</description>
+</snippet>
