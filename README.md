@@ -1,6 +1,7 @@
 This is a [Sublime Text][sublime] package which includes a bunch of handy snippets.
 
-Author: [Marcin Kwiatkowski][autor]
+Author: [Marcin Kwiatkowski][author]
+
 Snippets descriptions: [http://kwiatkowski.co/snippety][snippets]
 
 ## Installation ##
