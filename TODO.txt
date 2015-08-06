@@ -1,0 +1,12 @@
+- disable emmet snippets
+
+{
+	"snippets": {
+		"css": {
+			"snippets": {
+				"test": "clear: both;"
+			}
+		}
+	},
+	"disabled_single_snippets": "fig meta nav ol script style ul"
+} 

@@ -1,11 +1,28 @@
-# Sublime Snippets
+This is a [Sublime Text][sublime] package which includes a bunch of handy snippets.
 
-__HTML:__
+Author: [Marcin Kwiatkowski][author]
 
-__lor1__
+Snippets descriptions: [http://kwiatkowski.co/snippety][snippets]
 
-Lorem ipsum paragraph
+## Installation ##
 
-```
-<p>Lorem ipsum dolor sit...</p>
-```
+##### Linux Ubuntu / Mint #####
+    
+    cd "cd /home/USERNAME/.config/sublime-text-3/Packages/User/"
+
+##### Mac OS #####
+
+    cd "~/Library/Application Support/Sublime Text 3/Packages"
+    
+##### Windows 7, 8 and 10 #####
+    
+    cd "C:\Users\USERNAME\AppData\Roaming\Sublime Text 3\Packages"
+    
+##### Clone snippets #####
+    
+    git clone https://github.com/kwiatkowskimarcin/sublimesnippets.git .
+
+
+[sublime]: http://www.sublimetext.com/
+[author]: http://kwiatkowski.co
+[snippets]: http://kwiatkowski.co/snippety
