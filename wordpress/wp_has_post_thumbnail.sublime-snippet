@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+<![CDATA[
+<?php if(has_post_thumbnail()) : ?>
+	<div class="thumbnail">
+		<?php the_post_thumbnail($size, array('class' => 'thumb')); ?>
+	</div> <!-- .thumbnail -->
+<?php else : ?>
+<?php endif; ?>
+]]>
+	</content>
+	<tabTrigger>wp_has_post_thumbnail</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
